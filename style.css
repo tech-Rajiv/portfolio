@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+@font-face {
+  font-family: "role";
+  src: url("fonts/GREALN__.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "role2";
+  src: url("fonts/Molot.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.normal{
+  font-family: "Anton", serif;
+  font-weight: 200;
+  font-style: normal;
+  line-height: 0.1;
+}
+.normal2{
+  font-family: "Archivo Black", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+
