@@ -99,7 +99,7 @@ gsap.from('.links3', {
     trigger: '.links3',
     scroller: 'body',
     start: "top 100%",
-    end: "top 80%",
+    end: "top 95%",
     ease: "power.inOut",
     scrub: 2
   }
@@ -156,8 +156,8 @@ gsap.from(".pagedown", {
   scrollTrigger: {
     trigger: '.pagedown',
     scroller: 'body',
-    start: "top 80%",
-    end: "top 60%",
+    start: "top 90%",
+    end: "top 80%",
     ease: "power.inOut",
     scrub: 2,
   }
